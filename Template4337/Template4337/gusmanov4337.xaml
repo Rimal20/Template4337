@@ -8,5 +8,9 @@
         Title="gusmanov4337" Height="450" Width="800">
     <Grid>
         <TextBlock Text="Гусманов Рималь 19 лет"/>
+        <Button Width="120" Height="60" HorizontalAlignment="Left" VerticalAlignment="Top" Margin=" 0 20 0 0" Click="Button_Click">Импорт </Button>
+        <Button Width="120" Height="60" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0 100 0 0" Click="Button_Click_1">Экспорт </Button>
+        <Button Width="120" Height="60" HorizontalAlignment="Right" VerticalAlignment="Top" Margin=" 0 20 0 0" Click="Button_Click_2">импорт json</Button>
+        <Button Width="120" Height="60" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0 100 0 0" Click="Button_Click_3">экспорт json</Button>
     </Grid>
 </Window>

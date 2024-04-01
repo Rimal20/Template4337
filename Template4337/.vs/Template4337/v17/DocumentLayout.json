@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\Desktop\\ISRPO3lab\\Template4337\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EA4A35-A279-4A56-9409-E374A8AEA19C}|Template4337\\Template4337.csproj|C:\\Users\\1\\Desktop\\ISRPO3lab\\Template4337\\template4337\\gusmanov4337.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EA4A35-A279-4A56-9409-E374A8AEA19C}|Template4337\\Template4337.csproj|solutionrelative:template4337\\gusmanov4337.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EA4A35-A279-4A56-9409-E374A8AEA19C}|Template4337\\Template4337.csproj|c:\\users\\1\\desktop\\isrpo3lab\\template4337\\template4337\\gusmanov4337.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3EA4A35-A279-4A56-9409-E374A8AEA19C}|Template4337\\Template4337.csproj|solutionrelative:template4337\\gusmanov4337.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EA4A35-A279-4A56-9409-E374A8AEA19C}|Template4337\\Template4337.csproj|C:\\Users\\1\\Desktop\\ISRPO3lab\\Template4337\\template4337\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F3EA4A35-A279-4A56-9409-E374A8AEA19C}|Template4337\\Template4337.csproj|solutionrelative:template4337\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EA4A35-A279-4A56-9409-E374A8AEA19C}|Template4337\\Template4337.csproj|c:\\users\\1\\desktop\\isrpo3lab\\template4337\\template4337\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F3EA4A35-A279-4A56-9409-E374A8AEA19C}|Template4337\\Template4337.csproj|solutionrelative:template4337\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EA4A35-A279-4A56-9409-E374A8AEA19C}|Template4337\\Template4337.csproj|c:\\users\\1\\desktop\\isrpo3lab\\template4337\\template4337\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{F3EA4A35-A279-4A56-9409-E374A8AEA19C}|Template4337\\Template4337.csproj|solutionrelative:template4337\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1\\Desktop\\3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EA4A35-A279-4A56-9409-E374A8AEA19C}|Template4337\\Template4337.csproj|C:\\Users\\1\\Desktop\\ISRPO3lab\\Template4337\\template4337\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EA4A35-A279-4A56-9409-E374A8AEA19C}|Template4337\\Template4337.csproj|solutionrelative:template4337\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EA4A35-A279-4A56-9409-E374A8AEA19C}|Template4337\\Template4337.csproj|C:\\Users\\1\\Desktop\\ISRPO3lab\\Template4337\\template4337\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3EA4A35-A279-4A56-9409-E374A8AEA19C}|Template4337\\Template4337.csproj|solutionrelative:template4337\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\ISRPO3lab\\Template4337\\Template4337\\packages.config",
+              "RelativeDocumentMoniker": "Template4337\\packages.config",
+              "ToolTip": "C:\\Users\\1\\Desktop\\ISRPO3lab\\Template4337\\Template4337\\packages.config",
+              "RelativeToolTip": "Template4337\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-01T22:39:53.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\ISRPO3lab\\Template4337\\Template4337\\Model1.edmx",
+              "RelativeDocumentMoniker": "Template4337\\Model1.edmx",
+              "ToolTip": "C:\\Users\\1\\Desktop\\ISRPO3lab\\Template4337\\Template4337\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Template4337\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-04-01T21:32:41.765Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "3.json",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\3.json",
+              "RelativeDocumentMoniker": "..\\..\\3.json",
+              "ToolTip": "C:\\Users\\1\\Desktop\\3.json",
+              "RelativeToolTip": "..\\..\\3.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAACEAgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T21:10:55.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gusmanov4337.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\ISRPO3lab\\Template4337\\Template4337\\gusmanov4337.xaml",
+              "RelativeDocumentMoniker": "Template4337\\gusmanov4337.xaml",
+              "ToolTip": "C:\\Users\\1\\Desktop\\ISRPO3lab\\Template4337\\Template4337\\gusmanov4337.xaml",
+              "RelativeToolTip": "Template4337\\gusmanov4337.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T16:12:44.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gusmanov4337.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\ISRPO3lab\\Template4337\\Template4337\\gusmanov4337.xaml.cs",
+              "RelativeDocumentMoniker": "Template4337\\gusmanov4337.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\ISRPO3lab\\Template4337\\Template4337\\gusmanov4337.xaml.cs",
+              "RelativeToolTip": "Template4337\\gusmanov4337.xaml.cs",
+              "ViewState": "AQIAAAYBAAAAAAAAAAAuwBgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:10:26.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\ISRPO3lab\\Template4337\\Template4337\\App.config",
+              "RelativeDocumentMoniker": "Template4337\\App.config",
+              "ToolTip": "C:\\Users\\1\\Desktop\\ISRPO3lab\\Template4337\\Template4337\\App.config",
+              "RelativeToolTip": "Template4337\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAACtAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-28T14:14:19.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\ISRPO3lab\\Template4337\\Template4337\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Template4337\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\ISRPO3lab\\Template4337\\Template4337\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Template4337\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:08:40.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\ISRPO3lab\\Template4337\\Template4337\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Template4337\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\1\\Desktop\\ISRPO3lab\\Template4337\\Template4337\\MainWindow.xaml",
+              "RelativeToolTip": "Template4337\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T14:08:41.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 54,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 11,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
